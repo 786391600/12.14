@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 194476 */
+  src: url('font/iconfont.eot');
+  src: url('font/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('font/iconfont.woff') format('woff'),
+  url('font/iconfont.ttf') format('truetype'),
+  url('font/iconfont.svg#iconfont') format('svg');
+}
+
+.sear{
+	font-family: 'iconfont';
+}
+.sear:before{
+	content: '\e651';
+}
+.hot{
+	font-family: 'iconfont';
+}
+.hot:before{
+	content: '\e6a8';
+}
+.del{
+	font-family: 'iconfont';
+}
+.del:before{
+	content:'\e650';
+}
+.user{
+	font-family: 'iconfont';
+}
+.user:before{
+	content:'\e625';
+}
+.passi{
+	font-family: 'iconfont';
+}
+.passi:before{
+	content:'\e628';
+}
+.fatie{
+	font-family: 'iconfont';
+}
+.fatie:before{
+	content:'\e653';
+}
+.yj{
+	font-family: 'iconfont';
+}
+.yj:before{
+	content:'\e6cf';
+}
+.sc{
+	font-family: 'iconfont';
+}
+.sc:before{
+	content:'\e601';
+}
+.set{
+	font-family: 'iconfont';
+}
+.set:before{
+	content:'\e600';
+}
+.shuaxin{
+	font-family: 'iconfont';
+}
+.shuaxin:before{
+	content:'\e6bf';
+}
+.huati{
+	font-family: 'iconfont';
+}
+.huati:before{
+	content:'\e63d';
+}
+.shipin{
+	font-family: 'iconfont';
+}
+.shipin:before{
+	content:'\e678';
+}
+.my{
+	font-family: 'iconfont';
+}
+.my:before{
+	content:'\e60f';
+}
+
